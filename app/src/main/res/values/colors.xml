@@ -12,6 +12,9 @@
     <color name="card_layout">@color/white</color>
     <color name="item_background">@color/dark_gray</color>
 
+    <color name="ratings">@color/gold</color>
+    <color name="favorites">@color/transparent_blue</color>
+
     <color name="button_primary">@color/deep_blue</color>
 
     <color name="text">@color/dark_gray</color>
@@ -24,7 +27,9 @@
     <color name="dark_blue">#054291</color>
     <color name="sky_blue">#E3EAF5</color>
     <color name="blue_white">#F7FAFF</color>
-    <color name="dark_gray">#151616</color>
+    <color name="transparent_blue">#83F7FAFF</color>
+    <color name="dark_gray">#1B1C1C</color>
+    <color name="gold">#EB9800</color>
 
     <color name="light_blue">#054291</color>
 

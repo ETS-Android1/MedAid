@@ -42,7 +42,9 @@
             android:layout_marginTop="10dp"
             android:layout_toEndOf="@+id/profilePicIV"
             android:numStars="5"
-            android:rating="4" />
+            android:rating="4"
+            android:progressTint="@color/ratings"
+            android:secondaryProgressTint="@android:color/transparent" />
 
     </RelativeLayout>
 
