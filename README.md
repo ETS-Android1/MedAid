@@ -142,6 +142,15 @@ Doctor
   - (Read/GET) Query user object favorites
 
 ## Sprints
+
+**Sprint Final User Stories** 
+- [x] Update favorites icon
+- [x] Update ratings color
+
+**Sprint Final Walkthrough**
+
+<img src="walkthrough_sprint_final.gif" width=250>
+
 **Sprint 3 User Stories** 
 
 - [x] Design and implement cohesive UI 
